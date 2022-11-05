@@ -2,7 +2,7 @@
 
 A personal practice for NeRF with pytorch
 
-Reference:[nerf-pytorch](https://github.com/yenchenlin/nerf-pytorch)
+Reference:[nerf-pytorch](https://github.com/yenchenlin/nerf-pytorch), [NeRF](https://arxiv.org/pdf/2003.08934.pdf)
 
 [My detailed reading note](https://davidxu-jj.github.io/blog/NeRF/NeRF.html) of NeRF and its code. Hope it can help you anyway.
 
