@@ -12,6 +12,4 @@ Thanks a lot to the author's patient explanation in nerf's issues.
 
 Notice: I didn't run the whole training epoch. Because I just want to justify my code. The following video is generated after 50k epochs.
 
-![image](./logs/fern_test/fern_test_spiral_050000_rgb.mp4)
-
-![image](./logs/fern_test/fern_test_spiral_050000_disp.mp4)
+[RGB_video](./logs/fern_test/fern_test_spiral_050000_rgb.mp4), [Disp_video](./logs/fern_test/fern_test_spiral_050000_disp.mp4)
