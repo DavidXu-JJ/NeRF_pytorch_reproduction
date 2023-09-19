@@ -6,7 +6,7 @@ Reference:[nerf](https://github.com/bmild/nerf), [nerf-pytorch](https://github.c
 
 Thanks a lot to the author's patient explanation in nerf's issues.
 
-[My detailed reading note](https://davidxu-jj.github.io/blog/NeRF/NeRF.html) of NeRF and its code. Hope it can help you anyway.
+[My detailed reading note](https://davidxu-jj.github.io/blog/NeRF) of NeRF and its code. Hope it can help you anyway.
 
 ## The output video
 
